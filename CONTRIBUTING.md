@@ -9,4 +9,4 @@ Thank you for considering contributing to Wireframe Toolbox! We appreciate your 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-Please ensure that your code follows the project's coding standards, including proper formatting, naming conventions, and including tests where applicable.  Additionally, it is crucial to run all existing and new tests to confirm that your changes do not break the functionality.
+Please ensure that your code follows the project's coding standards, including proper formatting, naming conventions, and including tests where applicable. Additionally, it is crucial to run all existing and new tests to confirm that your changes do not break the functionality. Remember to document any new tests you add to maintain clarity.
